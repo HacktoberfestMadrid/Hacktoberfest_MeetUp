@@ -13,7 +13,7 @@ Dejémonos de chachara y vamos con ello.
 Lo primero que necesitamos es tener `git` instalado en nuestro ordenador, para ello podemos descargarlo desde [aquí](https://git-scm.com/downloads). Si no sabéis de que se trata, es un sistema de control de versiones diseñado por [Linus Torvalds](https://media.giphy.com/media/olAik8MhYOB9K/giphy.gif).
 
 
-Por otro lado, si os fijáis, este repo se encuentr alojado en **Github**, de modo que para que las contribuciones cuenten de cara al evento, es necesario crear una cuenta, para ello nos dirijimos a la página [principal](https://github.com) y  pulsamos el botón *Sign in*, seguimos los pasos y ya tendremos nuestra cuenta creada.
+Por otro lado, si os fijáis, este repo se encuentra alojado en **Github**, de modo que para que las contribuciones cuenten de cara al evento, es necesario crear una cuenta, para ello nos dirijimos a la página [principal](https://github.com) y  pulsamos el botón *Sign in*, seguimos los pasos y ya tendremos nuestra cuenta creada.
 
 ## 2. Ya tengo Git y Github, ¿ahora qué?
 
