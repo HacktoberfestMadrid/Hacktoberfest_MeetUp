@@ -15,7 +15,29 @@ Lo primero que necesitamos es tener `git` instalado en nuestro ordenador, para e
 
 Por otro lado, si os fijáis, este repo se encuentra alojado en **Github**, de modo que para que las contribuciones cuenten de cara al evento, es necesario crear una cuenta, para ello nos dirijimos a la página [principal](https://github.com) y  pulsamos el botón *Sign in*, seguimos los pasos y ya tendremos nuestra cuenta creada.
 
-## 2. Ya tengo Git y Github, ¿ahora qué?
+## 2. Registrarse en el HacktoberFest 2019
+
+El siguiente paso es registrarnos en el evento, para ello vamos a la [página oficial](https://hacktoberfest.digitalocean.com/). Una vez abierta, clicamos en el botón *START HACKING*
+
+![hacking](img/start.png)
+
+Nos redigirá a **Github** y nos pedira autenticarnos
+
+![auth](img/auth.png)
+
+Una vez autenticados, solo es necesario autorizar a Hacktoberfest (digitalocean)
+
+![authorize](img/authorize.png)
+
+Tras esto, volveremos a la página del Hacktoberfest y solo faltará logarse con la cuenta de Github
+
+![signup](img/signup.png)
+
+Rellenamos un pequeño *About you* en el que aceptaremos las reglas y valores (*Rules and Values*), venderemos nuestra alma y clicando en *Start Hacking* nos habremos registrado por completo en el evento.
+
+![about](img/about.png)
+
+## 3. Ya tengo Git, Github y estoy registrado en el evento ¿ahora qué?
 
 El siguiente paso es hacer un *Fork* del repositorio, para ello solo tenemos que ir a la parte superior donde se encuentra el repo. Esto creará una copia del repositorio en el estado actual en la cuenta de Github con la que estemos logueados y nos permitirá hacer modificaciones sobre el mismo, para luego realizar la contribución mediante un *Pull Request*.
 
